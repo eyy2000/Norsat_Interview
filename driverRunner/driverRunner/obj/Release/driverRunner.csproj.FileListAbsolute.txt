@@ -1,0 +1,10 @@
+K:\projects\csDriver\driverRunner\driverRunner\bin\Release\driverRunner.exe.config
+K:\projects\csDriver\driverRunner\driverRunner\bin\Release\driverRunner.exe
+K:\projects\csDriver\driverRunner\driverRunner\bin\Release\driverRunner.pdb
+K:\projects\csDriver\driverRunner\driverRunner\bin\Release\AtomBUCDriver.dll
+K:\projects\csDriver\driverRunner\driverRunner\bin\Release\AtomBUCDriver.pdb
+K:\projects\csDriver\driverRunner\driverRunner\obj\Release\driverRunner.csproj.CoreCompileInputs.cache
+K:\projects\csDriver\driverRunner\driverRunner\obj\Release\driverRunner.csproj.CopyComplete
+K:\projects\csDriver\driverRunner\driverRunner\obj\Release\driverRunner.exe
+K:\projects\csDriver\driverRunner\driverRunner\obj\Release\driverRunner.pdb
+K:\projects\csDriver\driverRunner\driverRunner\obj\Release\driverRunner.csprojAssemblyReference.cache

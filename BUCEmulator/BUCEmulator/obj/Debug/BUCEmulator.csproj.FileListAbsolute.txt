@@ -1,0 +1,7 @@
+K:\projects\csDriver\BUCEmulator\BUCEmulator\obj\Debug\BUCEmulator.csprojAssemblyReference.cache
+K:\projects\csDriver\BUCEmulator\BUCEmulator\obj\Debug\BUCEmulator.csproj.CoreCompileInputs.cache
+K:\projects\csDriver\BUCEmulator\BUCEmulator\bin\Debug\BUCEmulator.exe.config
+K:\projects\csDriver\BUCEmulator\BUCEmulator\bin\Debug\BUCEmulator.exe
+K:\projects\csDriver\BUCEmulator\BUCEmulator\bin\Debug\BUCEmulator.pdb
+K:\projects\csDriver\BUCEmulator\BUCEmulator\obj\Debug\BUCEmulator.exe
+K:\projects\csDriver\BUCEmulator\BUCEmulator\obj\Debug\BUCEmulator.pdb

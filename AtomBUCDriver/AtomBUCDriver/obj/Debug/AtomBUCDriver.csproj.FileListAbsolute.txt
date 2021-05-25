@@ -1,0 +1,6 @@
+K:\projects\csDriver\AtomBUCDriver\AtomBUCDriver\bin\Debug\AtomBUCDriver.dll
+K:\projects\csDriver\AtomBUCDriver\AtomBUCDriver\bin\Debug\AtomBUCDriver.pdb
+K:\projects\csDriver\AtomBUCDriver\AtomBUCDriver\obj\Debug\AtomBUCDriver.csprojAssemblyReference.cache
+K:\projects\csDriver\AtomBUCDriver\AtomBUCDriver\obj\Debug\AtomBUCDriver.csproj.CoreCompileInputs.cache
+K:\projects\csDriver\AtomBUCDriver\AtomBUCDriver\obj\Debug\AtomBUCDriver.dll
+K:\projects\csDriver\AtomBUCDriver\AtomBUCDriver\obj\Debug\AtomBUCDriver.pdb
